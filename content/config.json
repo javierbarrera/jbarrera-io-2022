@@ -1,0 +1,42 @@
+{
+  "title": "Javier Barrera",
+  "url": "https://www.jbarrera.io",
+  "subtitle": "Thoughts on Agility, Project Management, Azure Cloud, and Shopify",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-173928301-1",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "Trusted Brands",
+      "path": "/pages/affiliate-links"
+    }
+  ],
+  "author": {
+    "name": "Javier Barrera",
+    "photo": "/photo.jpg",
+    "bio": "Marketing Technology Professional focusing on React and Azure. Loving life at Shopify.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "javierbarrera",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "jbarrera",
+      "linkedin": "javieridaho",
+      "instagram": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}

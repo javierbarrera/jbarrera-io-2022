@@ -104,6 +104,12 @@ export default {
             options: { wrapperStyle: "margin-bottom: 1.0725rem" },
           },
           "gatsby-remark-autolink-headers",
+          {
+            resolve: "gatsby-remark-plantuml-lite",
+            options: {
+              imageType: "svg",
+            }
+          },
           "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-smartypants",
